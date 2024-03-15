@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanthgangula&label=Profile%20views&color=0e75b6&style=flat" alt="hemanthgangula" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemanthgangula" alt="hemanthgangula" /></a> </p>
-
 - 🌱 I’m currently learning **I'm currently diving into the realms of DevOps and AWS Cloud, exploring various tools and methodologies to streamline development workflows.**
 
 - 📝 I regularly write articles on [https://hemanthgangula.hashnode.dev/](https://hemanthgangula.hashnode.dev/)
